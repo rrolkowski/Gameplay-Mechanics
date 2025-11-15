@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\zaliczenie\\hns - r\u00F3\u0142kowski rafa\u0142 (semestr 3) zaliczenie\\assets\\projectiledamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|solutionrelative:assets\\projectiledamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\assets\\laserdamagezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|solutionrelative:assets\\laserdamagezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\assets\\attackprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|solutionrelative:assets\\attackprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\assets\\ibossattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|solutionrelative:assets\\ibossattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\assets\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D01878-6E11-0F4E-4835-C7D7C9FE551D}|Assembly-CSharp.csproj|solutionrelative:assets\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackLaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AttackLaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackMelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AttackMelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectileDamage.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\ProjectileDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\ProjectileDamage.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\ProjectileDamage.cs",
+              "RelativeToolTip": "Assets\\ProjectileDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:52:38.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaserDamageZone.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\LaserDamageZone.cs",
+              "RelativeDocumentMoniker": "Assets\\LaserDamageZone.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\LaserDamageZone.cs",
+              "RelativeToolTip": "Assets\\LaserDamageZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:41:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttackLaser.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackLaser.cs",
+              "RelativeDocumentMoniker": "Assets\\AttackLaser.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackLaser.cs",
+              "RelativeToolTip": "Assets\\AttackLaser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:53:46.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttackProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\AttackProjectile.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackProjectile.cs",
+              "RelativeToolTip": "Assets\\AttackProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:52:14.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttackMelee.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackMelee.cs",
+              "RelativeDocumentMoniker": "Assets\\AttackMelee.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\AttackMelee.cs",
+              "RelativeToolTip": "Assets\\AttackMelee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:50:42.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\BossController.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\BossController.cs",
+              "RelativeToolTip": "Assets\\BossController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:49:07.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBossAttack.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\IBossAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\IBossAttack.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Zaliczenie\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) Zaliczenie\\Assets\\IBossAttack.cs",
+              "RelativeToolTip": "Assets\\IBossAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:47:53.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

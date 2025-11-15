@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\studia semestr 4\\hns - r\u00F3\u0142kowski rafa\u0142 (semestr 3)\\assets\\burneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\burneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\studia semestr 4\\hns - r\u00F3\u0142kowski rafa\u0142 (semestr 3)\\assets\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\fireballskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\fireballskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\playerskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\playerskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\iskilleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\iskilleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\shockwaveskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\shockwaveskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\quests\\questnpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quests\\questnpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\skillsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\skillsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\itemuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\quests\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quests\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\scripts\\quests\\questui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quests\\questui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\assets\\pmana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17096A2-48D1-ED65-AB9B-DA7BBB07CDA7}|Assembly-CSharp.csproj|solutionrelative:assets\\pmana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurnEffect.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\BurnEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\BurnEffect.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\BurnEffect.cs",
+              "RelativeToolTip": "Assets\\BurnEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:51:51.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireballProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\FireballProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\FireballProjectile.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\FireballProjectile.cs",
+              "RelativeToolTip": "Assets\\FireballProjectile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:51:10.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireballSkill.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\FireballSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\FireballSkill.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\FireballSkill.cs",
+              "RelativeToolTip": "Assets\\FireballSkill.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:50:37.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAiwL8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:39:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemUse.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\ItemUse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemUse.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\ItemUse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemUse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:47:49.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestNPC.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\Quests\\QuestNPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Quests\\QuestNPC.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\Quests\\QuestNPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Quests\\QuestNPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:39:16.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\Quests\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Quests\\QuestManager.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\Quests\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Quests\\QuestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:39:01.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:23:45.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthController.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:22:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestUI.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\Quests\\QuestUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Quests\\QuestUI.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\Scripts\\Quests\\QuestUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Quests\\QuestUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:11:04.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillsUI.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\SkillsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\SkillsUI.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\SkillsUI.cs",
+              "RelativeToolTip": "Assets\\SkillsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:24:13.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShockwaveSkill.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\ShockwaveSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\ShockwaveSkill.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\ShockwaveSkill.cs",
+              "RelativeToolTip": "Assets\\ShockwaveSkill.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:02:43.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISkillEffect.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\ISkillEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\ISkillEffect.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\ISkillEffect.cs",
+              "RelativeToolTip": "Assets\\ISkillEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:01:15.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerSkills.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\PlayerSkills.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerSkills.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\PlayerSkills.cs",
+              "RelativeToolTip": "Assets\\PlayerSkills.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:49:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PMana.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\PMana.cs",
+              "RelativeDocumentMoniker": "Assets\\PMana.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\PMana.cs",
+              "RelativeToolTip": "Assets\\PMana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:48:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\SkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\SkillData.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\Studia Semestr 4\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3)\\Assets\\SkillData.cs",
+              "RelativeToolTip": "Assets\\SkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:44:36.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

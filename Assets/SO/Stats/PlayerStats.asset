@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c55ee8a04670b504c834808fb4607693, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  currentlvl: 1
+  <CurrentXP>k__BackingField: 0
+  baseMovementSpeed: 6
+  baseMaxHealth: 100
+  baseMaxStamina: 50
+  baseMaxMana: 50
+  baseArmor: 10
+  xpWorth: 10
+  BaseStatisticPointsToDistribute: 0
+  baseStats: {fileID: 11400000, guid: 71ef0ad1ba7865643bcc8fd4d2bf8e37, type: 2}

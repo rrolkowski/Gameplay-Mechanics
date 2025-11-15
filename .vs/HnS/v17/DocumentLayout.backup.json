@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roleq\\Desktop\\HnS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\hns\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\hns\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\hns\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\pmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\pmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\animationeventrelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\animationeventrelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\scripts\\playerinfoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinfoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\scripts\\trackdeathxp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trackdeathxp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\pstamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\pstamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\scripts\\valuechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\valuechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS\\assets\\stworzy\u0107dorobi\u0107zmieni\u0107.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D5251D1D-7CBC-F09B-DCA0-E8BC4BE043DE}|Assembly-CSharp.csproj|solutionrelative:assets\\stworzy\u0107dorobi\u0107zmieni\u0107.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:52:20.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:37:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimationEventRelay.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\AnimationEventRelay.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimationEventRelay.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\AnimationEventRelay.cs",
+              "RelativeToolTip": "Assets\\AnimationEventRelay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:43:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:22:42.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PMovement.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\PMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PMovement.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\PMovement.cs",
+              "RelativeToolTip": "Assets\\PMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:21:42.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInfoUI.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\PlayerInfoUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInfoUI.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\PlayerInfoUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInfoUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:45:20.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthController.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:01:20.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PStamina.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\PStamina.cs",
+              "RelativeDocumentMoniker": "Assets\\PStamina.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\PStamina.cs",
+              "RelativeToolTip": "Assets\\PStamina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:24:14.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValueChanger.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\ValueChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ValueChanger.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\ValueChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ValueChanger.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:21:02.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrackDeathXP.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\TrackDeathXP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrackDeathXP.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\TrackDeathXP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrackDeathXP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:20:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\Statistics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Statistics.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\Statistics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Statistics.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:19:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "RelativeDocumentMoniker": "Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "RelativeToolTip": "Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-28T00:16:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:43:58.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

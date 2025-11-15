@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f183ed5b3e350419647d909b326eb5, type: 3}
+  m_Name: MeteorRain
+  m_EditorClassIdentifier: 
+  skillName: Meteor Rain
+  maxLevel: 5
+  skillEffectPrefab: {fileID: 1900872989061895678, guid: 5073922d102043642b3d7242ad7e4f9a,
+    type: 3}
+  manaCosts:
+  - 80
+  - 70
+  - 65
+  - 60
+  - 50
+  damages:
+  - 25
+  - 35
+  - 45
+  - 55
+  - 70
+  cooldown:
+  - 120
+  - 100
+  - 80
+  - 60
+  - 40

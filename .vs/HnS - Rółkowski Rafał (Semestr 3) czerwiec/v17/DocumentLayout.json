@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\hns - r\u00F3\u0142kowski rafa\u0142 (semestr 3) czerwiec\\assets\\checklista 2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|solutionrelative:assets\\checklista 2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\MinimapIcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MinimapIcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\_OTHER\\MinimapIcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_OTHER\\MinimapIcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\assets\\checklista.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|solutionrelative:assets\\checklista.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\assets\\scripts\\playerinfoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinfoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\assets\\scripts\\itemuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E294C16A-71B4-0A53-B15B-144EBF88462E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\PMana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\ShockwaveSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\BurnEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\FireballSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\SkillBuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checklista 2.txt",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Checklista 2.txt",
+              "RelativeDocumentMoniker": "Assets\\Checklista 2.txt",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Checklista 2.txt",
+              "RelativeToolTip": "Assets\\Checklista 2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-21T22:31:55.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimapIcon.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\MinimapIcon.cs",
+              "RelativeDocumentMoniker": "Assets\\MinimapIcon.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\MinimapIcon.cs",
+              "RelativeToolTip": "Assets\\MinimapIcon.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T20:10:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinimapIcon.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\_OTHER\\MinimapIcon.cs",
+              "RelativeDocumentMoniker": "Assets\\_OTHER\\MinimapIcon.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\_OTHER\\MinimapIcon.cs",
+              "RelativeToolTip": "Assets\\_OTHER\\MinimapIcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:20:09.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checklista.txt",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Checklista.txt",
+              "RelativeDocumentMoniker": "Assets\\Checklista.txt",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Checklista.txt",
+              "RelativeToolTip": "Assets\\Checklista.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-20T08:54:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInfoUI.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Scripts\\PlayerInfoUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInfoUI.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Scripts\\PlayerInfoUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInfoUI.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:54:25.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Scripts\\Statistics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Statistics.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Scripts\\Statistics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Statistics.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhP3dK9TxNhHMDx3/P02mu50p5IaSNoCLS\u002BkEuJEN4aNTB0IDiYIBJMNyZXRTBxcBNnnUBHEgaHTgy1CaVOphJICBhaG\u002Bi1R6XHlfZK27v22nucjIn\u002BBfrZv9sX4J9nAACIkAg1NzPHWketrXVvnXHedzL9j/rpwECgtrW1hcZmxi6Jt0VL4GlAW3m90nZ669TsGHBofJTXMSEE40M8LCtysIZre0wrs2ejbHssYj/mvLn2Y\u002BnYo2hK0KSbgnyGH85X85/VhhoUKGEYXgGmQgchNlPILG0L20Muq8voG/Ed0hTdqGpVyXPZY6lr9WebyU0uU8hAUkouAoZuoSQ4iU4eu8G9T4XjYapcL1\u002BjEAWTNye/GpDhBQFSklRJ6WnpyREga0NXh\u002B7FxTgYsXFtmpu\u002Bm5WzZxe1i0\u002Bd0FmlwkdhcLW4YPDK4JGqqfN\u002Bzh9HCOkAAIQQnJWyot1i10wGE\u002BqwdojtTLtOG2kNI1yMQlTHAABNvQmAoJEsJfO/YgAAWZbZcqP8fn1nvTchJXoiyciHhY0FNiEm3E1oPu\u002Bz9bGUz\u002BkDFamQKqbMhWqBC\u002B2HzgEAxKKo7BZ2\u002BS5j15L/un9JqkjIgAwr8yPzi6tfVuWUnHrnKDlK1MTARCN3lkvH0rE7TdJ8mzpPaTRFQ0WrJHZ\u002B7DwZHxuPpS/Si6yZhaneKZ7r4HjWzGpqTU1HX0YbiBCCN/Y3Rk8KJ28i3yM3hJIAdosdutu6D2zENrs8u3z2e5u/YYSQznBMjG1jH4AO3mK16FVUxasS9aHpmyn/Z/Af\u002BgnU5B69svpg\u002BgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-20T08:54:25.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PMana.cs",
+              "DocumentMoniker": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\PMana.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\PMana.cs",
+              "ToolTip": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\PMana.cs",
+              "RelativeToolTip": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\PMana.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:54:25.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShockwaveSkill.cs",
+              "DocumentMoniker": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\ShockwaveSkill.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\ShockwaveSkill.cs",
+              "ToolTip": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\ShockwaveSkill.cs",
+              "RelativeToolTip": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\ShockwaveSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:54:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemUse.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Scripts\\ItemUse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemUse.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\Scripts\\ItemUse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemUse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhP3dK9TxNhHMDx3/P02mu50p5IaSNoCLS\u002BkEuJEN4aNTB0IDiYIBJMNyZXRTBxcBNnnUBHEgaHTgy1CaVOphJICBhaG\u002Bi1R6XHlfZK27v22nucjIn\u002BBfrZv9sX4J9nAACIkAg1NzPHWketrXVvnXHedzL9j/rpwECgtrW1hcZmxi6Jt0VL4GlAW3m90nZ669TsGHBofJTXMSEE40M8LCtysIZre0wrs2ejbHssYj/mvLn2Y\u002BnYo2hK0KSbgnyGH85X85/VhhoUKGEYXgGmQgchNlPILG0L20Muq8voG/Ed0hTdqGpVyXPZY6lr9WebyU0uU8hAUkouAoZuoSQ4iU4eu8G9T4XjYapcL1\u002BjEAWTNye/GpDhBQFSklRJ6WnpyREga0NXh\u002B7FxTgYsXFtmpu\u002Bm5WzZxe1i0\u002Bd0FmlwkdhcLW4YPDK4JGqqfN\u002Bzh9HCOkAAIQQnJWyot1i10wGE\u002BqwdojtTLtOG2kNI1yMQlTHAABNvQmAoJEsJfO/YgAAWZbZcqP8fn1nvTchJXoiyciHhY0FNiEm3E1oPu\u002Bz9bGUz\u002BkDFamQKqbMhWqBC\u002B2HzgEAxKKo7BZ2\u002BS5j15L/un9JqkjIgAwr8yPzi6tfVuWUnHrnKDlK1MTARCN3lkvH0rE7TdJ8mzpPaTRFQ0WrJHZ\u002B7DwZHxuPpS/Si6yZhaneKZ7r4HjWzGpqTU1HX0YbiBCCN/Y3Rk8KJ28i3yM3hJIAdosdutu6D2zENrs8u3z2e5u/YYSQznBMjG1jH4AO3mK16FVUxasS9aHpmyn/Z/Af\u002BgnU5B69svpg\u002BgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-20T08:54:25.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BurnEffect.cs",
+              "DocumentMoniker": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\BurnEffect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\BurnEffect.cs",
+              "ToolTip": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\BurnEffect.cs",
+              "RelativeToolTip": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\BurnEffect.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:54:25.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FireballSkill.cs",
+              "DocumentMoniker": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\FireballSkill.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\FireballSkill.cs",
+              "ToolTip": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\FireballSkill.cs",
+              "RelativeToolTip": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\FireballSkill.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:54:25.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillBuff.cs",
+              "DocumentMoniker": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\SkillBuff.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\SkillBuff.cs",
+              "ToolTip": "C:\\Users\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\SkillBuff.cs",
+              "RelativeToolTip": "..\\..\\..\\rrolkows\\Desktop\\HnS - R\u00F3\u0142kowski Rafa\u0142 (Semestr 3) czerwiec\\Assets\\SkillBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:54:25.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

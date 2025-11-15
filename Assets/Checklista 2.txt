@@ -1,0 +1,35 @@
+Wprowadzono:
+
+- Quest system, kótry posiada 
+	-UI (Info o quescie oraz nad npc i głową gracza po wykonaniu zadania)
+	-NPC (Daje zadania dla gracza)
+	-XP REWARD (Dostaje się XP po wykonaniu zadania)
+	-NEXT QUEST po zakończeniu poprzedniego
+	
+- System Many pod Skille
+	- Mana się po woli regeneruje
+	- Został dodany nowa statystyka (INTELLIGENCE), która dodaje nam max staminy
+	- Została dodana statystyka "Max Stamina" pod Player info stats
+	
+- Potion do Many
+	- Gracz może wypić potkę kilka razy by zregenerowała się dana ilość many
+	
+- System Skilli
+	- Dodadno 3 skille
+		- Fireball - Gracz klika w przycisk, zaznacza cel i wystrzeliwuje kule ognia, kóra wybucha w wroga 
+			zadajac dmg oraz naklada efekt podpalenia który trwa X sekund
+		- Shockwave - Gracz klika w przycisk, nastepuje fala od gracza która w promieniu zadaje obrażenia dla wszystkich wrogów
+		- Buff - Gracz daje na siebie buffa w postaci tarczy która redukuje 50% wszystkich otrzymywanych obrażeń
+	- Skille są progresywne i gracz może z każdym następnym levelem, otrzymująć punkt, rozdać go i ulepszyć dowolny skill
+
+- Każdy skill ma cooldown, po którym możan go użyć
+
+- Minimapa - pokazuje ikonki Gracza, enemies, npc (top-down perspectve)
+
+- Ultimate skill, umiejętność która daje potężny dmg dla wrogów - deszcz meteorytów zadający obrazenia AOE tam gdzie klika gracz co X sekund
+
+Do Zrobienia:
+
+- *Inventory* - System inwertażu gdzie gracz może podnosić itemy po wrogach
+
+- *Boss - 2 ataki -* Atak melee, atak aoe shockwave i atak lasera do okoła bossa

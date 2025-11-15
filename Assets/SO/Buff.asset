@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2f183ed5b3e350419647d909b326eb5, type: 3}
+  m_Name: Buff
+  m_EditorClassIdentifier: 
+  skillName: Buff(Damage Reduction)
+  maxLevel: 5
+  skillEffectPrefab: {fileID: 2865804935229999957, guid: 891d45d8b4c828947a68ca31ee6d79a8,
+    type: 3}
+  manaCosts:
+  - 5
+  - 10
+  - 15
+  - 20
+  - 30
+  damages:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  cooldown:
+  - 15
+  - 13
+  - 11
+  - 9
+  - 6

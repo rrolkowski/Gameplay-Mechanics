@@ -1,0 +1,41 @@
+02/02/2025 - Unity Semestr 3
+
+Checklista:
+
+- Izometryczna kamera
+
+- WASD sterowanie + możliwość dashowania
+
+- 1 grywalna postać
+
+- Podstawowy atak
+
+- Wrogowie + proste AI (Patrol, Chase, Attack)
+
+- Statystyki
+
+- Levelowanie
+
+- System HP i zadawania obrażeń
+
+- Zasób staminy (dash zabiera stamine)
+
+
+Zrobione na +:
+
+- AI, pod Aggro chain, Czasowy patrol w rangu
+- WASD sterowanie z rotacją gracza
+- Statystyki - dodane Crit Chance
+   - Każdy skill ma swoje zastosowanie
+- Levelowanie, Na każdy level potrzeba więcej punktów, efekt levelup
+- Zadawanie obrażeń, ulepszone pod względem Damage canvasu, który pokazuje zadawne/otrzymywane obrażenia oraz Krytyki
+- Zasób staminy, gracz rolluje zamiast dashować, enemy nie trafia podczas rollki, stamina regeneruje sie, nie mozna rollnac jak sie nei ma wystarczająco staminy
+
+- Shrine jak z POE - Efekt wybierany na start gry, jednorazowe użycie, zwiększony czasowy kryt albo movment speed
+   - Dodane ikonki nad shrine i w UI do widoku aktualnego buffa
+- Animacje gracza: movement(Run/iddle)/roll/atak/2atak
+- Dodane UI do sprawdzenia aktualnych wartości statystyk jak LVL/XP/MAXHP itp.
+- Potka na życie, (Aktualnie 3krotne uzycie po 50hp) 
+- Mozliwośc zmiany broni na 2Rękę, animacyjnie inny atak oraz inny bazowy dmg
+
+

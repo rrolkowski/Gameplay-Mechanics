@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roleq\\Desktop\\HnS 30-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A3F1FE-BB4D-1FB4-4AE7-C06EDD3D6357}|Assembly-CSharp.csproj|C:\\Users\\roleq\\Desktop\\HnS 30-test\\assets\\stworzy\u0107dorobi\u0107zmieni\u0107.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56A3F1FE-BB4D-1FB4-4AE7-C06EDD3D6357}|Assembly-CSharp.csproj|solutionrelative:assets\\stworzy\u0107dorobi\u0107zmieni\u0107.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A3F1FE-BB4D-1FB4-4AE7-C06EDD3D6357}|Assembly-CSharp.csproj|c:\\users\\roleq\\desktop\\hns 30-test\\assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A3F1FE-BB4D-1FB4-4AE7-C06EDD3D6357}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS 30-test\\Assets\\Scripts\\Statistics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Statistics.cs",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS 30-test\\Assets\\Scripts\\Statistics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Statistics.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:47:36.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "DocumentMoniker": "C:\\Users\\roleq\\Desktop\\HnS 30-test\\Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "RelativeDocumentMoniker": "Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "ToolTip": "C:\\Users\\roleq\\Desktop\\HnS 30-test\\Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "RelativeToolTip": "Assets\\Stworzy\u0107Dorobi\u0107Zmieni\u0107.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-02T05:24:38.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

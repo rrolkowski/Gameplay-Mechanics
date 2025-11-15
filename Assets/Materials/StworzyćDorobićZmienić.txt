@@ -1,0 +1,40 @@
+Stworzyć/Dorobić/Zmienić:
+
+- Wybór broni na początku gry (Łuk, Miecz) - dać to na kamieniu w możliwości wyboru broni na starcie gry
+- Dodać animacje do gracza
+- Dodać miecz i łuk prefab
+- Dodać AI z chase/attack/patrol
+- Ulepszyć AI - dodac bossa/minibossa z jakimiś efektami 2/3 skille
+- dodać statystyki wisdom/stremgth/dex/int
+- pozmieniać trochę wygląd mapki /uzyc terrain/ albo nie?
+- Lvl progres z glownego pokoju do kolejnej komnaty itp.
+- dodać dash/rolkę
+- Dodać ui pod levelowanie, efelkty pod nextlvl itp.
+- Dodać shrine jak z POE np. 2x dmg, wiecj HP gracza
+- stamina
+- dodać jeden efekt specjalny postaci pod Q - np. ogień do okoła gracza - zabiera mane
+- Dodać potki mana/zycie
+
+*- prowizoryczny ekwipunek, dodac (zbroje helm buty) - + drop z mobków + różne statystyki
+
+
+Checklista:
+
+- Izometryczna kamera
+
+- WASD sterowanie + możliwość dashowania
+
+- 1 grywalna postać
+
+- Podstawowy atak
+
+- Wrogowie + proste AI (Patrol, Chase, Attack)
+
+- Statystyki
+
+- Levelowanie
+
+- System HP i zadawania obrażeń
+
+- Zasób staminy (dash zabiera stamine)
+
